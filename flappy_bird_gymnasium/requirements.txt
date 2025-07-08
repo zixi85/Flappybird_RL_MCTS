@@ -1,0 +1,6 @@
+gymnasium
+torch
+transformers
+numpy
+pygame
+
